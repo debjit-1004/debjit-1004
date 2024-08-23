@@ -21,4 +21,5 @@ I am a backend devoloper and an AI-ML enthusiast
 ---
 [![](https://visitcount.itsvg.in/api?id=debjit-1004&icon=0&color=0)](https://visitcount.itsvg.in)
 
+![snake gif](https://github.com/debjit-1004/debjit-1004/blob/output/github-contribution-grid-snake.gif)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
