@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Debjit Kundu</h1>
-<h3 align="center">A aspiring Full-stack developer and an AI-ML enthusiast from India.</h3>
+<h1 align="center">Hi , I'm Debjit Kundu</h1>
+<h3 align="center">An aspiring Full-stack developer and an AI-ML enthusiast from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debjit-1004&label=Profile%20views&color=0e75b6&style=flat" alt="debjit-1004" /> </p>
 
