@@ -58,7 +58,7 @@
 ###
 
 <div align="left">
-  <a href="discord:///users/arka0163" target="_blank">
+  <a href="discord:///users/77_might_come" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=flat" height="35" alt="discord logo"  />
   </a>
   <a href="mailto:0508debjitkundu2005@gmail.com" target="_blank">
@@ -76,3 +76,7 @@
 <img src="https://raw.githubusercontent.com/debjit-1004/debjit-1004/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Your Name Anime Shooting Star" />
+</div>
