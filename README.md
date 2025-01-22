@@ -78,5 +78,5 @@
 ###
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" alt="Your Name Anime Shooting Star" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGZpcjZxcGE4YXI0bWZqYmowcjJtaDA4MjVyNTRudmkzNGEyZDgyeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3ohjV6G9UwkB190zbq/giphy.gif" alt="Your Name Anime Shooting Star" />
 </div>
